@@ -6,7 +6,7 @@ from datetime import timedelta
 
 from homeassistant.const import Platform
 
-DOMAIN = "controld"
+DOMAIN = "ha_controld"
 
 PLATFORMS: list[Platform] = [Platform.SELECT]
 
