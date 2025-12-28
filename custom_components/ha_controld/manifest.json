@@ -1,0 +1,12 @@
+{
+  "domain": "ha_controld",
+  "name": "ControlD",
+  "codeowners": ["@megakid"],
+  "config_flow": true,
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": ["pyctrld==0.1.5"]
+}
+
+
+

@@ -1,0 +1,6 @@
+{
+  "name": "ControlD",
+  "render_readme": true,
+  "domains": ["select"],
+  "homeassistant": "2025.12.0"
+}
