@@ -3,6 +3,7 @@
   "name": "ControlD",
   "codeowners": ["@megakid"],
   "config_flow": true,
+  "documentation": "https://github.com/megakid/ha_controld",
   "integration_type": "hub",
   "iot_class": "cloud_polling",
   "version": "1.0.0",
